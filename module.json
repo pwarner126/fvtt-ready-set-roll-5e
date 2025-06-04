@@ -42,7 +42,7 @@
 			{
 				"id": "dnd5e",
 				"type": "system",
-				"manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
+				"manifest": "https://raw.githubusercontent.com/pwarner126/fvtt-ready-set-roll-5e/refs/heads/master/module.json",
 				"compatibility": {
 					"minimum": "4.1.1",
 					"verified": "5.0.3"
@@ -51,7 +51,7 @@
 		]
 	},
 	"url": "https://github.com/MangoFVTT/fvtt-ready-set-roll-5e",
-	"manifest": "https://raw.githubusercontent.com/MangoFVTT/fvtt-ready-set-roll-5e/master/module.json",
+	"manifest": "https://raw.githubusercontent.com/pwarner126/fvtt-ready-set-roll-5e/refs/heads/master/module.json",
 	"download": "https://github.com/MangoFVTT/fvtt-ready-set-roll-5e/releases/download/release-3.4.10/rsr5e-release-3.4.10.zip",
 	"bugs": "https://github.com/MangoFVTT/fvtt-ready-set-roll-5e/issues",
 	"readme": "https://github.com/MangoFVTT/fvtt-ready-set-roll-5e/blob/master/README.md"
