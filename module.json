@@ -4,9 +4,9 @@
 	"description": "This module overhauls rolls for the D&D 5e system with various quality of life improvements.",
 	"version": "3.4.10",
 	"compatibility": {
-		"minimum": "13.344",
-		"verified": "13.344",
-		"maximum": "13.344"
+		"minimum": "13",
+		"verified": "13.4.10",
+		"maximum": "13.4.10"
 	},
 	"authors": [
 		{
@@ -45,7 +45,7 @@
 				"type": "system",
 				"manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
 				"compatibility": {
-					"minimum": "5.0.3",
+					"minimum": "5.0.0",
 					"verified": "5.0.3"
 				}
 			}
