@@ -52,7 +52,7 @@
 	},
 	"url": "https://raw.githubusercontent.com/pwarner126/fvtt-ready-set-roll-5e/refs/heads/master/module.json",
 	"manifest": "https://raw.githubusercontent.com/pwarner126/fvtt-ready-set-roll-5e/refs/heads/master/module.json",
-	"download": "https://raw.githubusercontent.com/pwarner126/fvtt-ready-set-roll-5e/refs/heads/master/module.json",
+	"download": "https://github.com/pwarner126/fvtt-ready-set-roll-5e/archive/refs/heads/master.zip",
 	"bugs": "https://github.com/MangoFVTT/fvtt-ready-set-roll-5e/issues",
 	"readme": "https://github.com/MangoFVTT/fvtt-ready-set-roll-5e/blob/master/README.md"
 }
