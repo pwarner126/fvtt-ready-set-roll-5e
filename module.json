@@ -50,7 +50,7 @@
 			}
 		]
 	},
-	"url": "https://github.com/MangoFVTT/fvtt-ready-set-roll-5e",
+	"url": "https://raw.githubusercontent.com/MangoFVTT/fvtt-ready-set-roll-5e/master/module.json",
 	"manifest": "https://raw.githubusercontent.com/MangoFVTT/fvtt-ready-set-roll-5e/master/module.json",
 	"download": "https://github.com/MangoFVTT/fvtt-ready-set-roll-5e/releases/download/release-3.4.10/rsr5e-release-3.4.10.zip",
 	"bugs": "https://github.com/MangoFVTT/fvtt-ready-set-roll-5e/issues",
